@@ -3,6 +3,7 @@
   padding: 0;  
 }
 .wrapper{
+    background-attachment: fixed;
     background: url(/mario-kart.jpeg) no-repeat;
     background-size: cover;
     height: 100vh;
